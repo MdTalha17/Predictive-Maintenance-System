@@ -1,0 +1,12 @@
+numpy 
+pandas
+matplotlib
+seaborn
+scikit-learn
+mlflow
+streamlit
+python-json-logger
+pytest
+evidently
+pyyaml
+joblib
